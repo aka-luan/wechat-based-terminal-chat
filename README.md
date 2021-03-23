@@ -9,7 +9,7 @@ In this project, the blessed library and a Builder pattern is being used.
 - A functional chat that runs 100% on your terminal
 
 
-## Instalação
+## Installation
 
 You'll need node.js and Git to proceed
 
